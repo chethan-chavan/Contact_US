@@ -1,0 +1,154 @@
+.pad
+ {
+ 	padding-top: 30px;
+ 	color: green;
+
+ }
+
+ .silverbg
+  {
+  	background-color: #ededed;
+  	 color: #999999;
+  	 font-size: 19px;
+
+  }
+
+  .vertical 
+  { 
+            border-left: .1px solid grey; 
+            height: 50px; 
+            position:absolute; 
+            left: 0%;
+
+  }
+
+ .phone
+ {
+ 	background-color: #2db165;
+ 	color: white;
+ }
+
+.fa-facebook,.fa-twitter,.fa-youtube
+{
+	font-size: 25px;
+	padding-right:20px;
+	color: #999999;
+}
+
+b:hover,.icon:hover,down:hover
+ {
+ 	color: #57D64F;
+ }
+
+ .down
+  {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #393939;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #A5A5A5;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: white;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+ .line:after 
+   { 
+      content: ""; 
+      flex: 1 1; 
+      border-bottom: 1px solid #D8D8D8; 
+      margin: auto; 
+      padding-top: 6px;
+    } 
+
+
+  .line
+    { 
+      display: flex; 
+      flex-direction: row; 
+    } 
+
+
+.fa-home,.contact,.phone2,.mail
+    {
+	font-size: 45px;
+	color: #999999;
+
+   }
+
+.contact
+    {
+	font-size: 15px;
+	color: #999999;
+	font-weight: bold;
+   }
+
+ .cont-content
+ {
+ 	font-size: 15px;
+	padding-right:20px;
+	color: #999999;
+ }
+
+ .timing
+  {
+  	background-color:  #E7E7E7;
+  	padding: 20px;
+  }
+
+ .form
+  {
+  	padding: 35px;
+  	font-size: 20px
+  }
+
+.form2
+  {
+  	padding:5px 0 0 35px;
+  	font-size: 20px
+  }
+
+
+.form3
+  {
+  	padding:35px 0 0 35px;
+  	font-size: 20px
+  }
+
+  .footer
+   {
+   	padding: 20px;
+   	background-color: #E7E7E7;
+   }
+
+
+   .navbar.navbar-top {
+  background: #d1e6c5;
+  color: #fff;
+  border-color: transparent;
+}
+
+
